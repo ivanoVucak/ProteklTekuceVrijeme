@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\bin\Debug\protekloTekuceVrijeme.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\bin\Debug\protekloTekuceVrijeme.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\bin\Debug\protekloTekuceVrijeme.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.Form1.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.pdb
